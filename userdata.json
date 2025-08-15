@@ -11,4 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+    {
+        "device_id": "3566df709da7ff65",
+        "key": "admin",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
 ]
